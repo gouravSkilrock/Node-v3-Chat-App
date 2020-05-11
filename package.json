@@ -1,0 +1,15 @@
+{
+  "name": "chat-services",
+  "version": "1.0.0",
+  "description": "Local chat services for website to interact-based on socket.io*",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Gourav Panwar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
