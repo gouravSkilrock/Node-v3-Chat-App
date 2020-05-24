@@ -12,3 +12,11 @@
     height: 20px;
     width: 20px;
 }
+
+.messages_box_design{
+    border-radius: 0px 28px;
+    background: #e9ebe5;
+    padding: 9px;
+    width: auto;
+    height: 42px;
+}
